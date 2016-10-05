@@ -1,1 +1,3 @@
 # JWPlayerBindingTest
+
+I may have been a little angry at the project when I named it...
