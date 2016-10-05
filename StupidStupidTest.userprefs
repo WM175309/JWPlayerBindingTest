@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{77F5162A-54FE-4765-8BD2-748B763218AF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../JWPlayer/JWPlayer/obj/Debug/ios/JWPlayer/JWPlayerController.g.cs">
+    <Files>
+      <File FileName="Droid/MainActivity.cs" Line="7" Column="2" />
+      <File FileName="../JWPlayer/JWPlayer/obj/Debug/ios/JWPlayer/JWPlayerController.g.cs" Line="82" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StupidStupidTest" expanded="True">
+            <Node name="StupidStupidTest.Droid" expanded="True">
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StupidStupidTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.60833766cf5a12d6b4c5bedc22c5d17fbd705450" />
+</Properties>

@@ -1,0 +1,41 @@
+# Version: 10.0.1.8 (cycle8-sr0-xi: 3983064)
+# [first argument, ignore] # /Library/Frameworks/Xamarin.iOS.framework/Versions/10.0.1.8/lib/mtouch/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.0.1.8/lib/mtouch/mtouch.exe \
+	--cache \
+	/Users/wmartin/Documents/Xamarin/Projects/StupidStupidTest/iOS/obj/iPhone/Debug/build-iphone7.2-9.1/mtouch-cache \
+	--dev \
+	/Users/wmartin/Documents/Xamarin/Projects/StupidStupidTest/iOS/bin/iPhone/Debug/build-iphone7.2-9.1/StupidStupidTest.iOS.app \
+	--executable \
+	StupidStupidTest.iOS \
+	--fastdev \
+	--debug \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	9.3 \
+	--targetver \
+	8.0 \
+	--aot-options=-O=float32 \
+	--http-message-handler=HttpClientHandler \
+	--tls-provider=default \
+	--abi=arm64 \
+	--symbollist \
+	/Users/wmartin/Documents/Xamarin/Projects/StupidStupidTest/iOS/obj/iPhone/Debug/build-iphone7.2-9.1/mtouch-symbols.list \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Users/wmartin/Documents/Xamarin/Projects/JWPlayer/JWPlayer/bin/Debug/JWPlayer.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r \
+	/Users/wmartin/Documents/Xamarin/Projects/JWPlayer/JWPlayer/bin/Debug/JWPlayer.dll \
+	--target-framework \
+	"Xamarin.iOS,v1.0" \
+	/Users/wmartin/Documents/Xamarin/Projects/StupidStupidTest/iOS/bin/iPhone/Debug//StupidStupidTest.iOS.exe \

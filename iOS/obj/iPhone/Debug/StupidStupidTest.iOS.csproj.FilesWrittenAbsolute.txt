@@ -1,0 +1,11 @@
+/Users/wmartin/Documents/Xamarin/Projects/StupidStupidTest/iOS/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/wmartin/Documents/Xamarin/Projects/StupidStupidTest/iOS/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/wmartin/Documents/Xamarin/Projects/StupidStupidTest/iOS/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/wmartin/Documents/Xamarin/Projects/StupidStupidTest/iOS/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/wmartin/Documents/Xamarin/Projects/StupidStupidTest/iOS/obj/iPhone/Debug/build-iphone7.2-9.1/optimized/
+/Users/wmartin/Documents/Xamarin/Projects/StupidStupidTest/iOS/bin/iPhone/Debug/StupidStupidTest.iOS.exe.mdb
+/Users/wmartin/Documents/Xamarin/Projects/StupidStupidTest/iOS/bin/iPhone/Debug/StupidStupidTest.iOS.exe
+/Users/wmartin/Documents/Xamarin/Projects/StupidStupidTest/iOS/obj/iPhone/Debug/StupidStupidTest.iOS.exe
+/Users/wmartin/Documents/Xamarin/Projects/StupidStupidTest/iOS/obj/iPhone/Debug/StupidStupidTest.iOS.exe.mdb
+/Users/wmartin/Documents/Xamarin/Projects/StupidStupidTest/iOS/bin/iPhone/Debug/JWPlayer.dll
+/Users/wmartin/Documents/Xamarin/Projects/StupidStupidTest/iOS/bin/iPhone/Debug/JWPlayer.dll.mdb

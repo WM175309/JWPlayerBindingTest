@@ -1,0 +1,5 @@
+/Users/wmartin/Documents/Xamarin/Projects/StupidStupidTest/iOS/obj/iPhone/Debug/build-iphone7.2-9.1/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/wmartin/Documents/Xamarin/Projects/StupidStupidTest/iOS/obj/iPhone/Debug/build-iphone7.2-9.1/mtouch-cache/Link/StupidStupidTest.iOS.exe
+/Users/wmartin/Documents/Xamarin/Projects/StupidStupidTest/iOS/obj/iPhone/Debug/build-iphone7.2-9.1/mtouch-cache/Link/System.dll
+/Users/wmartin/Documents/Xamarin/Projects/StupidStupidTest/iOS/obj/iPhone/Debug/build-iphone7.2-9.1/mtouch-cache/Link/mscorlib.dll
+/Users/wmartin/Documents/Xamarin/Projects/StupidStupidTest/iOS/obj/iPhone/Debug/build-iphone7.2-9.1/mtouch-cache/Link/JWPlayer.dll
